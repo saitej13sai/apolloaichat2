@@ -17,7 +17,3 @@ Frontend	Streamlit
 Backend	Python
 AI Model	Google Gemini Pro
 Hosting	Streamlit Cloud
-🛠️ Setup & Run Locally
-Clone the repo
-git clone https://github.com/saitej13sai/appoloaichatassistant
-cd apollo-ai-assistant
