@@ -4,7 +4,7 @@
 This is an AI-powered medical assistant built using Streamlit and Google Gemini (Generative AI). It simulates an intelligent front-desk assistant for Apollo Hospitals, helping users describe symptoms, get AI-generated guidance, and book appointments with specialists.
 
 🚀 Live Demo
-👉 Click here to try the app
+👉https://apolloaichat2-nycgw9zlqkzytuc6a7ctkr.streamlit.app/
 
 💡 Features
 🎤 Natural Language Input: Users describe their symptoms in plain English.
